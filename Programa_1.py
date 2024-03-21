@@ -5,7 +5,6 @@
 
 import platform
 import sys
-
 import subprocess
 
 sistemaop = sys.platform
