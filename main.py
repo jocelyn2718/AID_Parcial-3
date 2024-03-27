@@ -1,4 +1,3 @@
-# https://www.linode.com/es/content/write-a-program-to-display-artist-tracks-more-using-python-and-spotifys-api/
 # Instalaremos unas nueva libreria llamada "python-dotenv"
 # que nos oermite cargar muy fácilmente los archivos 
 # de variables de entorno 
